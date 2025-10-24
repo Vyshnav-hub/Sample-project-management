@@ -25,3 +25,4 @@ def main():
         f.write(f"{name},{percent},{g}\n")
       if __name__=="__main__":
         main()
+print("Thank you for using the Grade Calculator!")
