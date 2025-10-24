@@ -16,3 +16,6 @@ A simple Python program to calculate student grades and demonstrate Agile workfl
   
 ## Update Notes
 - Added final message in main.py
+
+## Collaboration Notes
+- Demonstrated branch-based development using a pull request.
